@@ -1,0 +1,60 @@
+# Spreadsheet Files
+*.xlsx
+*.xls
+*.csv
+*.ods
+
+# Image Files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.svg
+
+# Database Files
+*.sql
+*.db
+*.mdb
+*.accdb
+*.sqlite
+*.sqlite3
+
+# Data Serialization Files
+*.json
+*.xml
+*.yaml
+*.yml
+
+# Binary and Data Files
+*.dat
+*.bin
+*.sav
+*.tar
+*.zip
+*.gz
+*.bz2
+*.7z
+
+# Log Files
+*.log
+*.tmp
+
+# Audio and Video Files
+*.mp3
+*.mp4
+*.avi
+*.wav
+*.mov
+*.flv
+
+# Ignore all files in a directory named "data"
+data/*
+
+# Ignore all files in a directory named "outputs"
+outputs/*
+
+# Miscellaneous
+*.DS_Store
